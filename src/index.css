@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Avenir Next";
+  src: local("Avenir Next"), url("./fonts/AvenirNextCyr-Regular.ttf") format('truetype');
+}
+
+body {
+  margin: 0;
+}
+
+* {
+  font-family: 'Avenir Next';
+  box-sizing: border-box;
+}
+
+button {
+  border: none;
+}
