@@ -69,6 +69,7 @@ const Navigation = styled.nav`
     padding-bottom: 20px;
     gap: 0 40px;
     justify-content: center;
+    border-bottom: 1px solid #c4c4c4;
   }
 `;
 
